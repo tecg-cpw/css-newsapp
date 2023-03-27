@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="description" content="NewsBooth, the most user-friendly app for your RSS feed">
+    <meta name="keywords" content="news, app, feed, rss, client, mobile">
+    <meta name="author" content="FP">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+      NewsBooth: Login
+    </title>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <header>
+      <figure>
+        <img src="./img/index-banner.svg" alt="" height="265" width="375">
+        <figcaption>
+          Find the latest news from around the world
+        </figcaption>
+      </figure>
+    </header>
+    <main>
+      <h1 aria-level="1" role="heading" class="hidden">
+        NewsBooth&nbsp;: Login
+      </h1>
+      <form action="./html/news.html" method="post">
+        <div class="email">
+          <label for="email">
+            Email&nbsp;:
+          </label>
+          <input type="email" id="email" name="email" value="" placeholder="Type email here">
+        </div>
+        <div class="password">
+          <label for="password">
+            Password&nbsp;:
+          </label>
+          <input type="password" id="password" name="password" value="" placeholder="Type password here">
+        </div>
+        <div class="save">
+          <input type="checkbox" name="save" value="save" id="save">
+          <label for="save">
+            Save login info
+          </label>
+        </div>
+        <button type="submit" name="sendInfo">
+          Login
+        </button>
+      </form>
+      <footer>
+        <a href="./createaccount.html">
+          Create an account
+        </a>
+      </footer>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="description" content="NewsBooth, the most user-friendly app for your RSS feed">
+    <meta name="keywords" content="news, app, feed, rss, client, mobile">
+    <meta name="author" content="FP">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+      NewsBooth - Main Feed
+    </title>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <header class="mainHeader">
+      <h1 aria-level="1" role="heading">
+        NewsBooth
+      </h1>
+      <div class="mainHeader-settings">
+        <a href="#settings" title="Toggle settings panel" class="mainHeader-settings-wheel">
+          Settings
+        </a>
+        <a href="#notifications" title="Toggle notification panel" class="mainHeader-settings-notifications">
+          Notifications
+        </a>
+      </div>
+    </header>
+    <nav class="mainMenu">
+      <h2 aria-level="2" role="heading" class="hidden">
+        Main menu
+      </h2>
+      <a href="#" title="Back to the top of the page" class="mainMenu-feed">
+        Feed
+      </a>
+      <a href="#" title="Search an article" class="mainMenu-search">
+        Search
+      </a>
+      <a href="#" title="Go to articles to read later" class="mainMenu-readLater">
+        Read later
+      </a>
+      <a href="#" title="Go to your profile page to edit your settings" class="mainMenu-profile">
+        Profile
+      </a>
+    </nav>
+    <main class="articles">
+      <nav class="articles-filters">
+        <h2 aria-level="2" role="heading" class="hidden">
+          Filters
+        </h2>
+        <a href="#allNews" title="Display All news" class="active">All News</a><a href="#sport" title="Display only sports related news">Sport</a><a href="#business" title="Display only business related news">Business</a><a href="#politic" title="Display only politics related news">Politic</a>
+      </nav>
+      <article class="">
+        <header>
+          <a href="#BreakingNews" title="Display only Breaking News" class="article-category">
+            Breaking News
+          </a>
+          <a href="#options" title="Toggle the options panel" class="article-options">
+            Options
+          </a>
+        </header>
+        <img src="../img/feed-plane.svg" alt="TravelSafe" width="275" height="187">
+        <h2 aria-level="2" role="heading">
+          <a href="./article.html" title="read this article">Jammin Airlines new travel policy for EU tourists</a>
+        </h2>
+        <time datetime="2022-01-18T14:54:39.929" class="article-postTime">
+          4 hours ago
+        </time>
+      </article>
+      <article class="">
+        <header>
+          <a href="#BreakingNews" title="Display only Breaking News" class="article-category">
+            Business
+          </a>
+          <a href="#options" title="Toggle the options panel" class="article-options">
+            Options
+          </a>
+        </header>
+        <img src="../img/feed-weboptim.svg" alt="Web interface in isometry" width="275" height="187">
+        <h2 aria-level="2" role="heading">
+          <a href="./article.html" title="read this article">Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds</a>
+        </h2>
+        <time datetime="2022-01-18T14:54:39.929" class="article-postTime">
+          4 hours ago
+        </time>
+      </article>
+    </main>
+  </body>
+</html>

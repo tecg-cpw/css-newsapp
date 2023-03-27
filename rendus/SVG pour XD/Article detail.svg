@@ -1,0 +1,290 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="1903" viewBox="0 0 375 1903">
+  <defs>
+    <filter id="Rectangle_4" x="287" y="388" width="52" height="52" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_4-2" x="239" y="388" width="52" height="52" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2" x="-56" y="1758" width="495" height="200" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-3"/>
+      <feFlood flood-color="#445780" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Article_detail">
+      <rect width="375" height="1903"/>
+    </clipPath>
+  </defs>
+  <g id="Article_detail" data-name="Article detail" clip-path="url(#clip-Article_detail)">
+    <rect width="375" height="1903" fill="#fff"/>
+    <text id="One_year_after_pandemic_many_companies_went_bankrupt" data-name="One year after pandemic, many companies went bankrupt" transform="translate(30 461)" fill="#373737" font-size="18" font-family="Nunito-ExtraBold, Nunito" font-weight="800"><tspan x="0" y="18">Reducing The Web’s Carbon </tspan><tspan x="0" y="42">Footprint: Optimizing Social Media </tspan><tspan x="0" y="66">Embeds</tspan></text>
+    <text id="_4_Hours_ago" data-name="4 Hours ago" transform="translate(30 544)" fill="#bdbdbd" font-size="12" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="12">4 Hours ago</tspan></text>
+    <text id="Bussiness" transform="translate(30 436)" fill="#373737" font-size="14" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="14">Web</tspan></text>
+    <text id="From_iconic_department_stores_to_entertainment_giants_the_coronavirus_has_seemingly_spared_no_one_in_its_devastation_of_the_U.S._economy._Falling_consumer_demand_reduced_entertainment_spending_and_stay-at-home_orders_mandating_certain_businesses_stay_closed_continue_to_take_their_toll_on_a_retail_industry_that_has_been_struggling_for_the_past_several_years_as_consumers_pivot_to_online_shopping._Even_as_the_economy_slowly_reopens_social_distancing_measures_are_impacting_restaurant_and_store_capacity_creating_longer-term_problems." data-name="From iconic department stores to entertainment giants, the coronavirus has seemingly spared no one in its devastation of the U.S. economy. Falling consumer demand, reduced entertainment spending, and stay-at-home orders mandating certain businesses stay closed continue to take their toll on a retail industry that has been struggling for the past several years as consumers pivot to online shopping. Even as the economy slowly reopens, social distancing measures are impacting restaurant and store capacity, creating longer-term problems." transform="translate(30 586)" fill="#373737" font-size="14" font-family="Nunito" font-weight="500"><tspan x="0" y="14">The </tspan><tspan y="14" fill="#54a7fb" font-family="Nunito-Bold, Nunito" font-weight="700" text-decoration="underline">COP26</tspan><tspan y="14" xml:space="preserve"> climate conference has thrown into a </tspan><tspan x="0" y="34">sharp light the importance of reducing carbon </tspan><tspan x="0" y="54">emissions in every area of our lives. Everyone can </tspan><tspan x="0" y="74">play a role in this, including those of us working </tspan><tspan x="0" y="94">on the web.</tspan><tspan x="0" y="114"></tspan><tspan x="0" y="134">Measuring the carbon footprint of the web isn’t </tspan><tspan x="0" y="154">an exact science, but </tspan><tspan y="154" fill="#54a7fb" font-family="Nunito-Bold, Nunito" font-weight="700" text-decoration="underline">a report by the BBC</tspan><tspan y="154" xml:space="preserve"> in 2020 </tspan><tspan x="0" y="174">estimates that all internet activity accounts for </tspan><tspan x="0" y="194">around 3.7% of global emissions (similar to the </tspan><tspan x="0" y="214">airline industry), and rising. The average web </tspan><tspan x="0" y="234">page size has been increasing steadily for years </tspan><tspan x="0" y="254">and is currently just over 2MB (according to </tspan><tspan x="0" y="274" fill="#54a7fb" font-family="Nunito-Bold, Nunito" font-weight="700" text-decoration="underline">HTTP Archive</tspan><tspan y="274">), and much of that increase can be </tspan><tspan x="0" y="294">attributed to Javascript. This is clearly not just </tspan><tspan x="0" y="314">bad for the environment — it’s bad for </tspan><tspan x="0" y="334">performance and hurts our users too. But </tspan><tspan x="0" y="354">calculating carbon emissions takes into account </tspan><tspan x="0" y="374">much more than bytes over the wire: there’s the </tspan><tspan x="0" y="394">power used in development, the data centers that </tspan><tspan x="0" y="414">host our files, the power consumed by the end </tspan><tspan x="0" y="434">users’ devices, and more.</tspan><tspan x="0" y="454"></tspan><tspan x="0" y="474">There’s a lot we can do to mitigate the </tspan><tspan x="0" y="494">environmental impact of the sites we build. Check </tspan><tspan x="0" y="514">out this article by Eric Bailey for some ideas. For </tspan><tspan x="0" y="534" fill="#54a7fb" font-family="Nunito-Bold, Nunito" font-weight="700" text-decoration="underline">this article</tspan><tspan y="534">, we’re going to take a deeper dive into </tspan><tspan x="0" y="554">one particular area.</tspan></text>
+    <text id="From_iconic_department_stores_to_entertainment_giants_the_coronavirus_has_seemingly_spared_no_one_in_its_devastation_of_the_U.S._economy._Falling_consumer_demand_reduced_entertainment_spending_and_stay-at-home_orders_mandating_certain_businesses_stay_closed_continue_to_take_their_toll_on_a_retail_industry_that_has_been_struggling_for_the_past_several_years_as_consumers_pivot_to_online_shopping._Even_as_the_economy_slowly_reopens_social_distancing_measures_are_impacting_restaurant_and_store_capacity_creating_longer-term_problems.-2" data-name="From iconic department stores to entertainment giants, the coronavirus has seemingly spared no one in its devastation of the U.S. economy. Falling consumer demand, reduced entertainment spending, and stay-at-home orders mandating certain businesses stay closed continue to take their toll on a retail industry that has been struggling for the past several years as consumers pivot to online shopping. Even as the economy slowly reopens, social distancing measures are impacting restaurant and store capacity, creating longer-term problems." transform="translate(30 1198)" fill="#373737" font-size="14" font-family="Nunito" font-weight="500"><tspan x="0" y="14">Third-party Javascript accounts for a lot of bloat </tspan><tspan x="0" y="34">on websites, with analytics, chatbots, and </tspan><tspan x="0" y="54">embedded widgets being common contributors. </tspan><tspan x="0" y="74">While working on a site recently, I noticed that an </tspan><tspan x="0" y="94">embedded YouTube video loaded around 600kB </tspan><tspan x="0" y="114">of JS for any visitor regardless of whether that </tspan><tspan x="0" y="134">user even chose to watch the video. This seems </tspan><tspan x="0" y="154">wasteful. I also became interested in </tspan><tspan y="154" fill="#54a7fb" font-family="Nunito-Bold, Nunito" font-weight="700" text-decoration="underline">this analysis </tspan><tspan x="0" y="174">of the COP26 website by Fershad Irani, which </tspan><tspan x="0" y="194">shows many things that could be improved to </tspan><tspan x="0" y="214">reduce the site’s (relatively large) carbon </tspan><tspan x="0" y="234">footprint.</tspan><tspan x="0" y="254"></tspan><tspan x="0" y="274">Redesigning the social media coverage is briefly </tspan><tspan x="0" y="294">mentioned as one way to save approximately </tspan><tspan x="0" y="314">1.4MB. However, when I visited the site, the </tspan><tspan x="0" y="334">amount of JS seemingly loaded from the Twitter </tspan><tspan x="0" y="354">feed section was higher even. On closer </tspan><tspan x="0" y="374">inspection, it appeared that other content </tspan><tspan x="0" y="394">embedded within tweets (video in particular) was </tspan><tspan x="0" y="414">contributing to this.</tspan><tspan x="0" y="434"></tspan><tspan x="0" y="454">To analyze the impact of various types of embed, </tspan><tspan x="0" y="474">I’ve measured the JS loaded and </tspan><tspan y="474" fill="#54a7fb" font-family="Nunito-Bold, Nunito" font-weight="700" text-decoration="underline">total blocking </tspan><tspan x="0" y="494" fill="#54a7fb" font-family="Nunito-Bold, Nunito" font-weight="700" text-decoration="underline">time</tspan><tspan y="494" xml:space="preserve"> (TBT) on a mobile connection for a simple </tspan><tspan x="0" y="514">HTML page with some common embeds. The </tspan><tspan x="0" y="534">performance impact is be measured with </tspan><tspan x="0" y="554">PageSpeed Insights. There’s also the number of </tspan><tspan x="0" y="574">requests to consider, which for a single Twitter </tspan><tspan x="0" y="594">embed is a lot.</tspan></text>
+    <text id="From_iconic_department_stores_to_entertainment_giants_the_coronavirus_has_seemingly_spared_no_one_in_its_devastation_of_the_U.S._economy._Falling_consumer_demand_reduced_entertainment_spending_and_stay-at-home_orders_mandating_certain_businesses_stay_closed_continue_to_take_their_toll_on_a_retail_industry_that_has_been_struggling_for_the_past_several_years_as_consumers_pivot_to_online_shopping._Even_as_the_economy_slowly_reopens_social_distancing_measures_are_impacting_restaurant_and_store_capacity_creating_longer-term_problems.-3" data-name="From iconic department stores to entertainment giants, the coronavirus has seemingly spared no one in its devastation of the U.S. economy. Falling consumer demand, reduced entertainment spending, and stay-at-home orders mandating certain businesses stay closed continue to take their toll on a retail industry that has been struggling for the past several years as consumers pivot to online shopping. Even as the economy slowly reopens, social distancing measures are impacting restaurant and store capacity, creating longer-term problems." transform="translate(30 1165)" fill="#373737" font-size="16" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="16">The Impact Of Social Media Embeds</tspan></text>
+    <g id="ILLUSTRATION" transform="translate(0 74)">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="315" height="310" rx="11" transform="translate(30 30)" fill="#ffda7e"/>
+      <g id="Group">
+        <path id="Vector" d="M186.473-107.446l-.381-136.025L0-136.041.381,0Z" transform="translate(274.989 70.114) rotate(180)" fill="#55dfff" opacity="0.7"/>
+      </g>
+      <g id="Group-2" data-name="Group">
+        <g id="Group-3" data-name="Group">
+          <path id="Vector-2" data-name="Vector" d="M17.762-10.245,17.731-24.3,0-14.051.032,0Z" transform="translate(266.551 166.363) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-4" data-name="Group">
+          <path id="Vector-3" data-name="Vector" d="M35.7-20.6v-2.871L0-2.855.016,0Z" transform="translate(266.297 84.641) rotate(180)" fill="#fff"/>
+        </g>
+        <g id="Group-5" data-name="Group">
+          <path id="Vector-4" data-name="Vector" d="M12.323-1.686V-2.764C6.058.852.952-2.067.936-9.251c-.016-7.2,5.059-15.986,11.324-19.6v-1.078C5.487-26.014-.016-16.5,0-8.712,0-.909,5.535,2.231,12.323-1.686Z" transform="translate(236.371 147.454) rotate(180)" fill="#fff"/>
+        </g>
+        <g id="Group-6" data-name="Group">
+          <g id="Group-7" data-name="Group">
+            <path id="Vector-5" data-name="Vector" d="M12.323-1.683V-2.761C6.074.854.952-2.064.936-9.248c-.016-7.2,5.059-15.986,11.308-19.586,6.264-3.616,11.355-.714,11.387,6.486l.936-.539c-.016-7.787-5.551-10.943-12.323-7.026S-.032-16.5,0-8.709C.016-.922,5.551,2.234,12.323-1.683Z" transform="translate(266.9 129.838) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-8" data-name="Group">
+            <path id="Vector-6" data-name="Vector" d="M.016,0C7.042-4.06,12.767-13.956,12.735-22.029l-.476.27-.936.539-.476.27C10.864-14.051,5.995-5.63,0-2.173V-.555Z" transform="translate(254.594 130.981) rotate(180)" fill="#f2c557"/>
+          </g>
+          <g id="Group-9" data-name="Group">
+            <path id="Vector-7" data-name="Vector" d="M23.2-13.4l-.016-2.855L0-2.855V0Z" transform="translate(266.377 114.377) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-10" data-name="Group">
+            <path id="Vector-8" data-name="Vector" d="M15.843-9.135v-2.871L0-2.871V0Z" transform="translate(266.345 102.482) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-11" data-name="Group">
+            <path id="Vector-9" data-name="Vector" d="M25.216-14.543,25.2-17.413,0-2.855.016,0Z" transform="translate(266.329 96.535) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-12" data-name="Group">
+            <path id="Vector-10" data-name="Vector" d="M35.7-20.6l-.016-2.871L0-2.871.016,0Z" transform="translate(266.361 108.43) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-13" data-name="Group">
+            <path id="Vector-11" data-name="Vector" d="M24.249-14l-.016-2.855L0-2.871.016,0Z" transform="translate(239.178 130.077) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-14" data-name="Group">
+            <path id="Vector-12" data-name="Vector" d="M11.752-6.772V-9.642L0-2.871.016,0Z" transform="translate(226.665 131.346) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-15" data-name="Group">
+            <path id="Vector-13" data-name="Vector" d="M31.592-18.238v-2.871L0-2.871V0Z" transform="translate(246.489 113.933) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-16" data-name="Group">
+            <path id="Vector-14" data-name="Vector" d="M22.235-12.846V-15.7L0-2.871.016,0Z" transform="translate(237.117 113.393) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-17" data-name="Group">
+            <path id="Vector-15" data-name="Vector" d="M38.839-22.425V-25.3L0-2.871V0Z" transform="translate(253.705 97.851) rotate(180)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group-18" data-name="Group">
+          <path id="Vector-16" data-name="Vector" d="M17.762-10.229l-.048-14.051L0-14.051.032,0Z" transform="translate(220.829 192.769) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-19" data-name="Group">
+          <path id="Vector-17" data-name="Vector" d="M12.8,0C19.84-4.06,25.549-13.94,25.518-22.029c-.016-8.088-5.757-11.355-12.8-7.3S-.032-15.383,0-7.3l.476-.27L1.412-8.1l.476-.27c-.016-6.9,4.837-15.32,10.832-18.777s10.9-.666,10.911,6.217c.016,6.9-4.837,15.32-10.848,18.777V0Z" transform="translate(206.334 166.221) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-20" data-name="Group">
+          <path id="Vector-18" data-name="Vector" d="M11.736-6.772V-9.642L0-2.871V0Z" transform="translate(168.922 164.682) rotate(180)" fill="#fff"/>
+        </g>
+        <g id="Group-21" data-name="Group">
+          <path id="Vector-19" data-name="Vector" d="M24.233-13.988v-2.855L0-2.871V0Z" transform="translate(181.435 163.414) rotate(180)" fill="#fff"/>
+        </g>
+        <g id="Group-22" data-name="Group">
+          <g id="Group-23" data-name="Group">
+            <path id="Vector-20" data-name="Vector" d="M12.323-1.683V-2.761C6.074.854.952-2.064.936-9.248L0-8.709C.016-.922,5.535,2.234,12.323-1.683Z" transform="translate(205.858 165.077) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-24" data-name="Group">
+            <path id="Vector-21" data-name="Vector" d="M23.2-13.385l-.016-2.871L0-2.855V0Z" transform="translate(208.633 147.713) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-25" data-name="Group">
+            <path id="Vector-22" data-name="Vector" d="M15.843-9.151v-2.871L0-2.871V0Z" transform="translate(208.602 135.803) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-26" data-name="Group">
+            <path id="Vector-23" data-name="Vector" d="M8.6-4.948,8.58-7.819,0-2.855V0Z" transform="translate(208.57 123.924) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-27" data-name="Group">
+            <path id="Vector-24" data-name="Vector" d="M25.2-14.543v-2.871L0-2.855V0Z" transform="translate(208.586 129.871) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-28" data-name="Group">
+            <path id="Vector-25" data-name="Vector" d="M35.7-20.6v-2.871L0-2.855.016,0Z" transform="translate(208.633 141.766) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-29" data-name="Group">
+            <path id="Vector-26" data-name="Vector" d="M35.683-20.617v-2.855L0-2.871V0Z" transform="translate(208.553 117.961) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-30" data-name="Group">
+            <path id="Vector-27" data-name="Vector" d="M31.592-18.238v-2.871L0-2.871.016,0Z" transform="translate(188.762 147.269) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-31" data-name="Group">
+            <path id="Vector-28" data-name="Vector" d="M22.219-12.83v-2.855L0-2.871V0Z" transform="translate(179.373 146.73) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-32" data-name="Group">
+            <path id="Vector-29" data-name="Vector" d="M11.736-6.772V-9.642L0-2.855.016,0Z" transform="translate(168.858 140.893) rotate(180)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group-33" data-name="Group">
+          <path id="Vector-30" data-name="Vector" d="M17.778-10.245l-.048-14.035L0-14.051.048,0Z" transform="translate(175.123 219.159) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-34" data-name="Group">
+          <path id="Vector-31" data-name="Vector" d="M12.8-1.76c7.026-4.06,12.735-13.956,12.719-22.029-.016-8.088-5.773-11.355-12.8-7.3A26.518,26.518,0,0,0,3.109-20.49,25.184,25.184,0,0,0,0-9.056C.016-3.489,2.728-.016,7.073,0L7.3-.619l.412-1.205.206-.6C4.2-2.442,1.9-5.376,1.887-10.134a21.45,21.45,0,0,1,2.649-9.753,22.65,22.65,0,0,1,8.2-9.04c5.995-3.457,10.879-.666,10.911,6.233.016,6.9-4.837,15.3-10.832,18.777V-1.76Z" transform="translate(175.821 182.08) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-35" data-name="Group">
+          <path id="Vector-32" data-name="Vector" d="M5.5-1.681V-2.76A10.278,10.278,0,0,1,.412-1.205L0,0A11.2,11.2,0,0,0,5.5-1.681Z" transform="translate(168.525 182.698) rotate(180)" fill="#fff"/>
+        </g>
+        <g id="Group-36" data-name="Group">
+          <path id="Vector-33" data-name="Vector" d="M.1,0C7.121-4.06,12.83-13.94,12.8-22.029,12.783-30.117,7.042-33.384,0-29.34v2.157c5.995-3.457,10.9-.666,10.911,6.217.016,6.9-4.853,15.32-10.832,18.777V0Z" transform="translate(224.143 148.601) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-37" data-name="Group">
+          <path id="Vector-34" data-name="Vector" d="M4.187-2.411l-.016-8.168L0-8.168.016,0Z" transform="translate(135.919 219.761) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-38" data-name="Group">
+          <path id="Vector-35" data-name="Vector" d="M20.665-.27c5.138-2.966,5.059-31.8,10.2-34.763C36-38.015,36.064-15.114,41.218-18.08S46.341-29.34,51.5-32.306l-.063-20.728L0-23.345.063-2.617C5.2-5.583,5.17-13.877,10.324-16.843,15.463-19.809,15.526,2.7,20.665-.27Z" transform="translate(151.144 244.628) rotate(180)" fill="#fff"/>
+        </g>
+        <g id="Group-39" data-name="Group">
+          <path id="Vector-36" data-name="Vector" d="M4.2-2.411,4.171-15.352,0-12.957.048,0Z" transform="translate(127.799 219.666) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-40" data-name="Group">
+          <path id="Vector-37" data-name="Vector" d="M4.2-2.395,4.155-20.141,0-17.747.048,0Z" transform="translate(119.663 219.571) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-41" data-name="Group">
+          <path id="Vector-38" data-name="Vector" d="M4.234-2.411l-.063-22.52L0-22.52.063,0Z" transform="translate(111.543 219.476) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-42" data-name="Group">
+          <path id="Vector-39" data-name="Vector" d="M4.25-2.411,4.171-29.72,0-27.31.079,0Z" transform="translate(103.423 219.381) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-43" data-name="Group">
+          <path id="Vector-40" data-name="Vector" d="M11.752-6.772V-9.642L0-2.871.016,0Z" transform="translate(226.602 107.557) rotate(180)" fill="#fff"/>
+        </g>
+        <g id="Group-44" data-name="Group">
+          <path id="Vector-41" data-name="Vector" d="M8.612-4.964,8.6-7.819,0-2.855.016,0Z" transform="translate(266.313 90.588) rotate(180)" fill="#fff"/>
+        </g>
+        <g id="Group-45" data-name="Group">
+          <path id="Vector-42" data-name="Vector" d="M38.839-22.425V-25.28L0-2.871.016,0Z" transform="translate(195.978 131.188) rotate(180)" fill="#fff"/>
+        </g>
+        <g id="Group-46" data-name="Group">
+          <g id="Group-47" data-name="Group">
+            <path id="Vector-43" data-name="Vector" d="M23.2-13.385l-.016-2.855L0-2.855V0Z" transform="translate(150.905 181.049) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-48" data-name="Group">
+            <path id="Vector-44" data-name="Vector" d="M15.843-9.151l-.016-2.855L0-2.871.016,0Z" transform="translate(150.874 169.139) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-49" data-name="Group">
+            <path id="Vector-45" data-name="Vector" d="M8.6-4.948V-7.8L0-2.855.016,0Z" transform="translate(150.842 157.26) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-50" data-name="Group">
+            <path id="Vector-46" data-name="Vector" d="M25.216-14.543,25.2-17.4,0-2.855.016,0Z" transform="translate(150.858 163.207) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-51" data-name="Group">
+            <path id="Vector-47" data-name="Vector" d="M35.7-20.617l-.016-2.871L0-2.871.016,0Z" transform="translate(150.89 175.086) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-52" data-name="Group">
+            <path id="Vector-48" data-name="Vector" d="M24.249-13.988l-.016-2.855L0-2.855.016,0Z" transform="translate(123.707 196.75) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-53" data-name="Group">
+            <path id="Vector-49" data-name="Vector" d="M35.7-20.6l-.016-2.871L0-2.871.016,0Z" transform="translate(150.825 151.297) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-54" data-name="Group">
+            <path id="Vector-50" data-name="Vector" d="M31.607-18.238l-.016-2.855L0-2.871.016,0Z" transform="translate(131.034 180.605) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-55" data-name="Group">
+            <path id="Vector-51" data-name="Vector" d="M22.235-12.83l-.016-2.855L0-2.855V0Z" transform="translate(121.645 180.066) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-56" data-name="Group">
+            <path id="Vector-52" data-name="Vector" d="M38.839-22.425l-.016-2.855L0-2.855V0Z" transform="translate(138.234 164.524) rotate(180)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group-57" data-name="Group">
+          <path id="Vector-53" data-name="Vector" d="M11.752-6.788V-9.658L0-2.871.016,0Z" transform="translate(111.13 174.214) rotate(180)" fill="#fff"/>
+        </g>
+        <g id="Group-58" data-name="Group">
+          <path id="Vector-54" data-name="Vector" d="M11.736-6.772V-9.642L0-2.855V0Z" transform="translate(111.194 198.018) rotate(180)" fill="#fff"/>
+        </g>
+        <g id="Group-59" data-name="Group">
+          <path id="Vector-55" data-name="Vector" d="M17.778-10.229l-.048-14.051L0-14.051.048,0Z" transform="translate(243.698 179.574) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-60" data-name="Group">
+          <path id="Vector-56" data-name="Vector" d="M17.778-10.229l-.048-14.051L0-14.051.048,0Z" transform="translate(197.976 205.964) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-61" data-name="Group">
+          <path id="Vector-57" data-name="Vector" d="M17.762-10.245,17.731-24.3,0-14.051.048,0Z" transform="translate(266.615 187.25) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-62" data-name="Group">
+          <path id="Vector-58" data-name="Vector" d="M17.762-10.229l-.032-14.051L0-14.051.032,0Z" transform="translate(243.746 200.461) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-63" data-name="Group">
+          <path id="Vector-59" data-name="Vector" d="M17.762-10.229l-.032-14.051L0-14.051.032,0Z" transform="translate(220.893 213.656) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-64" data-name="Group">
+          <path id="Vector-60" data-name="Vector" d="M17.778-10.245l-.048-14.035L0-14.051.048,0Z" transform="translate(198.039 226.851) rotate(180)" fill="#f2c557"/>
+        </g>
+        <g id="Group-65" data-name="Group">
+          <path id="Vector-61" data-name="Vector" d="M17.762-10.229l-.032-14.051L0-14.051.032,0Z" transform="translate(175.17 240.045) rotate(180)" fill="#f2c557"/>
+        </g>
+      </g>
+      <g id="Group-66" data-name="Group">
+        <path id="Vector-62" data-name="Vector" d="M184.237-105.226l-4.139,2.395-21.648,12.5-2.871,1.649-9.563,5.519-.888.507-15.05,8.691-3.188,1.84-9.579,5.519-3.79,2.189-28.214,16.3-6.28,3.632-9.563,5.519L59.9-33.447l-3.663,2.109L43.9-24.217l-3.124,1.808L34.875-19l-13.4,7.739L12.1-5.852,7.406-3.14,2.553-.333c-.079.048-.143.079-.206.111s-.111.048-.174.079c-.016,0-.016,0-.032.016H2.125c-.032.016-.079.032-.111.048a.463.463,0,0,1-.143.032,1.011,1.011,0,0,0-.111.032H1.729A.489.489,0,0,1,1.586,0H1.364c-.032,0-.063-.016-.1-.016a1.73,1.73,0,0,1-.174-.1l-.523-.3A.91.91,0,0,1,.222-.793.8.8,0,0,1,.143-1L.1-1.189a.8.8,0,0,1-.032-.19c0-.063-.016-.127-.016-.206v-9.975A3.843,3.843,0,0,1,0-12.307v-1.269l9.547-5.5L13.227-21.2q9.183-5.3,18.381-10.61l6.6-3.806,9.563-5.519,9.563-5.519,9.563-5.519L76.473-57.7,95.615-68.75l9.579-5.519,9.563-5.519,9.563-5.519,9.563-5.519,9.563-5.519,9.563-5.519,9.563-5.519,9.547-5.519,9.547-5.519,9.547-5.5a14.388,14.388,0,0,0-4.345,5.059v4.2q.523.309,1.094.619l.333.19,1.237.714.238.143c.079.048.143.079.222.127.222.127.46.27.682.4l.1.048c.206.127.412.238.6.349.016.016.048.016.063.032a.319.319,0,0,0,.127.063.69.69,0,0,1,.111.063.643.643,0,0,0,.143.079,1.183,1.183,0,0,0,.19.111c.016,0,.016.016.032.016.063.032.127.079.19.111.19.111.349.206.508.285l.523.3c.048.032.111.063.159.1l.1.048c.016.016.032.016.048.032a.034.034,0,0,1,.032.032.016.016,0,0,1,.016.016c.032.016.048.032.063.032a.055.055,0,0,0,.032.016.055.055,0,0,1,.032.016.055.055,0,0,0,.032.016c.016,0,.016,0,.016.016h.016ZM1.11-5.852c.063-.159.127-.3.19-.46-.174.365-.317.714-.46,1.063.016-.032.016-.048.032-.079Zm-.4.983C.65-4.726.6-4.583.555-4.441.6-4.583.65-4.726.714-4.869ZM.428-4a2.446,2.446,0,0,0-.079.27A2.446,2.446,0,0,1,.428-4Zm-.238.9c-.016.032-.016.063-.032.1C.174-3.029.174-3.061.19-3.093ZM1.7-12.624C.872-13.1.317-13.4.111-13.512.333-13.385.872-13.084,1.7-12.624Zm.539.317.016,2.078C2.236-11.292,2.236-12.339,2.236-12.307Zm-.9,5.947a.5.5,0,0,0,.079-.159c.254-.523.523-1.063.841-1.6C1.9-7.517,1.6-6.93,1.332-6.36Z" transform="translate(280 55.285) rotate(180)" fill="#393971"/>
+        <path id="Vector-63" data-name="Vector" d="M6.93-1.142V0s-.143-.1-.4-.238A.942.942,0,0,0,6.407-.3H6.391L5.868-.6c-.111-.063-.238-.143-.381-.222A2.946,2.946,0,0,1,5.186-1c-.127-.063-.238-.143-.381-.206-.079-.048-.174-.1-.254-.143-.111-.063-.206-.111-.317-.174S4-1.665,3.886-1.729c-.127-.079-.285-.159-.428-.238a.885.885,0,0,0-.127-.079c-.222-.143-.476-.27-.73-.412l-.333-.19c-.3-.174-.619-.365-.936-.539Q.642-3.592,0-3.949v-4.2c.238-.412.492-.809.73-1.189.079-.111.159-.222.238-.349.111-.159.222-.349.349-.507.048-.063.1-.111.143-.174.19-.254.365-.476.555-.7.079-.1.159-.206.238-.3l.111-.111c.079-.1.174-.19.254-.27.1-.111.206-.222.3-.333a1.7,1.7,0,0,1,.254-.222,1.43,1.43,0,0,1,.159-.143l.111-.111c.143-.127.285-.238.412-.333a.556.556,0,0,1,.127-.079c.032-.016.048-.048.079-.063l.143-.1a2.946,2.946,0,0,1,.3-.174c.063-.032.111-.048.174-.079.016-.016.032-.016.063-.032a.12.12,0,0,0,.063-.032l.285-.1c.063-.016.111,0,.159-.016h.19a1.055,1.055,0,0,1,.381.111l.523.3a.016.016,0,0,0,.016.016.594.594,0,0,1,.206.19l.016.016a1.4,1.4,0,0,1,.1.159c.016.032.032.079.048.111a.055.055,0,0,0,.016.032c0,.016,0,.016.016.032a1.473,1.473,0,0,0,.063.206.2.2,0,0,0,.016.1c0,.032,0,.048.016.063,0,.032.016.048.016.079,0,.1.016.19.016.3v10.7Z" transform="translate(93.162 166.014) rotate(180)" fill="#30305e"/>
+        <g id="Group-67" data-name="Group">
+          <g id="Group-68" data-name="Group">
+            <path id="Vector-64" data-name="Vector" d="M1.872-.258A4.151,4.151,0,0,0,3.759-3.509c0-1.205-.856-1.665-1.887-1.078A4.069,4.069,0,0,0,0-1.336C-.016-.147.841.345,1.872-.258Z" transform="translate(102.25 164.329) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-69" data-name="Group">
+            <path id="Vector-65" data-name="Vector" d="M1.9-.261A4.177,4.177,0,0,0,3.774-3.512c0-1.189-.856-1.665-1.887-1.078A4.169,4.169,0,0,0,0-1.339C0-.134.856.342,1.9-.261Z" transform="translate(113.113 158.078) rotate(180)" fill="#fff"/>
+          </g>
+          <g id="Group-70" data-name="Group">
+            <path id="Vector-66" data-name="Vector" d="M1.9-.258A4.1,4.1,0,0,0,3.774-3.525c0-1.189-.856-1.665-1.887-1.063A4.127,4.127,0,0,0,0-1.336C0-.147.856.345,1.9-.258Z" transform="translate(123.945 151.816) rotate(180)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="BOOKMARK" transform="translate(0 83)">
+      <g transform="matrix(1, 0, 0, 1, 0, -83)" filter="url(#Rectangle_4)">
+        <rect id="Rectangle_4-3" data-name="Rectangle 4" width="40" height="40" rx="8" transform="translate(293 394)" fill="#fff"/>
+      </g>
+      <path id="ICON_-_BOOKMARK" data-name="ICON - BOOKMARK" d="M0,2.76V18.136a.861.861,0,0,0,.486.772.9.9,0,0,0,.925-.081L8,13.991l6.588,4.836a.894.894,0,0,0,.925.081A.861.861,0,0,0,16,18.136V2.76A2.791,2.791,0,0,0,13.18,0H2.82A2.791,2.791,0,0,0,0,2.76Zm1.765,0A1.047,1.047,0,0,1,2.82,1.727H13.184A1.047,1.047,0,0,1,14.239,2.76V16.409l-5.71-4.188a.9.9,0,0,0-1.059,0L1.765,16.409Z" transform="translate(305 322)" fill="#373737"/>
+    </g>
+    <g id="BOOKMARK-2" data-name="BOOKMARK" transform="translate(0 83)">
+      <g transform="matrix(1, 0, 0, 1, 0, -83)" filter="url(#Rectangle_4-2)">
+        <rect id="Rectangle_4-4" data-name="Rectangle 4" width="40" height="40" rx="8" transform="translate(245 394)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="ICON_-_LIKE" data-name="ICON - LIKE" d="M2.659,18h12.2a2.665,2.665,0,0,0,2.413-1.6l2.483-5.55a2.822,2.822,0,0,0-.172-2.639,2.626,2.626,0,0,0-2.241-1.271h-3.1a13.215,13.215,0,0,0,.4-2.478A4.3,4.3,0,0,0,12.418.241,1.839,1.839,0,0,0,10.659.207,1.979,1.979,0,0,0,9.62,1.694L8.888,6.943H2.659A2.713,2.713,0,0,0,0,9.7v5.55A2.713,2.713,0,0,0,2.659,18ZM1.841,9.7a.835.835,0,0,1,.818-.847H9.69a.932.932,0,0,0,.912-.818l.847-6.066a.065.065,0,0,1,.037-.055.056.056,0,0,1,.053,0,2.4,2.4,0,0,1,1.268,2.423,12.239,12.239,0,0,1-.687,3.232.984.984,0,0,0,.11.873.912.912,0,0,0,.753.407h4.36a.815.815,0,0,1,.691.39.868.868,0,0,1,.053.813L15.6,15.6a.824.824,0,0,1-.74.491H7.731V10.057a.921.921,0,1,0-1.841,0v6.037H2.659a.835.835,0,0,1-.818-.847Z" transform="translate(255 405)" fill="#373737"/>
+    <text id="Brita" transform="translate(30 51)" fill="#fb5954" font-size="24" font-family="Nunito-ExtraBold, Nunito" font-weight="800"><tspan x="0" y="0">NewsBooth</tspan></text>
+    <g id="ICON_-_SETTING" data-name="ICON - SETTING">
+      <path id="Vector-67" data-name="Vector" d="M17.358,6.926a3.476,3.476,0,0,1-.844-.68,3.184,3.184,0,0,1,.081-1.109,2.6,2.6,0,0,0-.384-2.5,3,3,0,0,0-2.64-.364,3.626,3.626,0,0,1-1.17.076,3.47,3.47,0,0,1-.717-.8C11.169.858,10.528,0,9.5,0S7.823.858,7.309,1.549a3.5,3.5,0,0,1-.717.8,3.738,3.738,0,0,1-1.17-.076,3,3,0,0,0-2.64.364,2.613,2.613,0,0,0-.384,2.5A3.093,3.093,0,0,1,2.479,6.25a3.509,3.509,0,0,1-.848.68C.905,7.413,0,8.02,0,9s.905,1.585,1.634,2.072a3.587,3.587,0,0,1,.848.68A3.189,3.189,0,0,1,2.4,12.859a2.6,2.6,0,0,0,.384,2.5,3.012,3.012,0,0,0,2.64.364,3.621,3.621,0,0,1,1.17-.076,3.424,3.424,0,0,1,.717.8C7.827,17.142,8.472,18,9.5,18s1.673-.858,2.187-1.549a3.5,3.5,0,0,1,.717-.8,3.65,3.65,0,0,1,1.17.08,3,3,0,0,0,2.64-.364,2.613,2.613,0,0,0,.384-2.5,3.089,3.089,0,0,1-.081-1.109,3.509,3.509,0,0,1,.848-.68C18.095,10.587,19,9.976,19,9S18.087,7.413,17.358,6.926Zm-1,2.81a3.651,3.651,0,0,0-1.443,1.389,3.515,3.515,0,0,0-.027,2,3.689,3.689,0,0,1,.092,1.073,4.2,4.2,0,0,1-1.128-.087,4.115,4.115,0,0,0-2.114.025,3.689,3.689,0,0,0-1.466,1.367c-.211.284-.606.814-.767.862-.184-.047-.579-.574-.79-.862a3.663,3.663,0,0,0-1.466-1.367,2.453,2.453,0,0,0-.905-.153,8.073,8.073,0,0,0-1.209.127,4.323,4.323,0,0,1-1.132.087A3.656,3.656,0,0,1,4.1,13.132a3.515,3.515,0,0,0-.027-2A3.677,3.677,0,0,0,2.628,9.74a3.746,3.746,0,0,1-.909-.727c.05-.175.606-.549.909-.749A3.651,3.651,0,0,0,4.071,6.875a3.515,3.515,0,0,0,.027-2A3.674,3.674,0,0,1,4.006,3.8a4.285,4.285,0,0,1,1.128.087,4.116,4.116,0,0,0,2.114-.025A3.689,3.689,0,0,0,8.713,2.5c.211-.284.606-.814.767-.862.184.047.579.574.79.862a3.663,3.663,0,0,0,1.466,1.367,4.115,4.115,0,0,0,2.114.025A4.3,4.3,0,0,1,14.979,3.8a3.656,3.656,0,0,1-.092,1.069,3.515,3.515,0,0,0,.027,2,3.677,3.677,0,0,0,1.443,1.389,3.541,3.541,0,0,1,.9.738A3.518,3.518,0,0,1,16.36,9.736Z" transform="translate(288 36)" fill="#333"/>
+      <path id="Vector-68" data-name="Vector" d="M3.879,0A3.786,3.786,0,0,0,0,3.676,3.783,3.783,0,0,0,3.879,7.351,3.783,3.783,0,0,0,7.758,3.676,3.786,3.786,0,0,0,3.879,0Zm0,5.715a2.1,2.1,0,0,1-2.152-2.04,2.1,2.1,0,0,1,2.152-2.04,2.1,2.1,0,0,1,2.152,2.04A2.1,2.1,0,0,1,3.879,5.715Z" transform="translate(293.617 41.323)" fill="#333"/>
+    </g>
+    <path id="ICON_-_NOTIFICATION" data-name="ICON - NOTIFICATION" d="M8.345,15.8A3.233,3.233,0,0,0,11.481,18a3.189,3.189,0,0,0,3.231-2.622c1.83-.364,2.9-.953,3.2-1.771.315-.873-.209-1.785-1.55-2.716-1.543-1.069-1.924-3.113-2.29-5.087C13.555,3.084,12.981,0,9,0S4.437,3.084,3.93,5.8c-.37,1.975-.748,4.018-2.29,5.087-1.346.931-1.865,1.847-1.55,2.716C.593,15,3.371,15.742,8.345,15.8Zm3.136.564a1.536,1.536,0,0,1-1.208-.575q1.375-.033,2.507-.142A1.509,1.509,0,0,1,11.481,16.364ZM2.7,12.2c2.105-1.458,2.566-3.935,2.975-6.12C6.22,3.16,6.617,1.636,9,1.636S11.776,3.16,12.319,6.08c.405,2.185.87,4.658,2.975,6.12.842.582.925.887.937.887-.114.211-.874.549-2.511.793h-.028a.078.078,0,0,0-.028.007A32.973,32.973,0,0,1,9,14.167c-5.033,0-7.044-.731-7.225-1.051C1.773,13.113,1.825,12.811,2.7,12.2Z" transform="translate(327 36)" fill="#333"/>
+    <g id="NAVIGATION_BAR" data-name="NAVIGATION BAR" transform="translate(0 1088)">
+      <g transform="matrix(1, 0, 0, 1, 0, -1088)" filter="url(#Rectangle_2)">
+        <rect id="Rectangle_2-2" data-name="Rectangle 2" width="375" height="80" rx="8" transform="translate(0 1823)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Groupe_2" data-name="Groupe 2" transform="translate(111.38 1836)">
+      <text id="Sport" transform="translate(-0.38 35)" fill="#bdbdbd" font-size="12" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="4.07" y="12">Search</tspan></text>
+      <path id="ICON_-_SEARCH" data-name="ICON - SEARCH" d="M12.688,24.558a12.866,12.866,0,0,0,7.741-2.576l8.185,7.636a1.44,1.44,0,0,0,1.992-.036,1.33,1.33,0,0,0-.038-1.927l-8.1-7.564a12,12,0,0,0,2.912-7.818A12.5,12.5,0,0,0,12.688,0,12.5,12.5,0,0,0,0,12.279,12.5,12.5,0,0,0,12.688,24.558Zm0-21.83a9.726,9.726,0,0,1,9.87,9.552,9.726,9.726,0,0,1-9.87,9.552,9.726,9.726,0,0,1-9.87-9.552A9.726,9.726,0,0,1,12.688,2.727Z" transform="translate(8 0)" fill="#bdbdbd"/>
+    </g>
+    <g id="Groupe_3" data-name="Groupe 3" transform="translate(185.499 1836)">
+      <text id="Business" transform="translate(-0.499 35)" fill="#bdbdbd" font-size="12" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="5.71" y="12">Read later</tspan></text>
+      <path id="ICON_-_BOOKMARK-2" data-name="ICON - BOOKMARK" d="M0,4.358V28.636a1.361,1.361,0,0,0,.76,1.218,1.39,1.39,0,0,0,1.446-.127L12.5,22.091l10.294,7.636a1.384,1.384,0,0,0,1.446.127A1.361,1.361,0,0,0,25,28.636V4.358A4.383,4.383,0,0,0,20.594,0H4.406A4.383,4.383,0,0,0,0,4.358Zm2.757,0a1.644,1.644,0,0,1,1.648-1.63H20.6a1.644,1.644,0,0,1,1.648,1.63V25.909L13.327,19.3a1.391,1.391,0,0,0-1.654,0L2.757,25.909Z" transform="translate(21 0)" fill="#bdbdbd"/>
+    </g>
+    <g id="Groupe_4" data-name="Groupe 4" transform="translate(280.146 1836)">
+      <text id="Politic" transform="translate(-0.146 35)" fill="#bdbdbd" font-size="12" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="4.048" y="12">Profile</tspan></text>
+      <g id="ICON_-_USER" data-name="ICON - USER" transform="translate(8 0)">
+        <g id="Group_33" data-name="Group 33">
+          <path id="Vector-69" data-name="Vector" d="M8.615,16.085c.731,0,1.487-.012,2.261-.03,1.687-.03,3.561-.03,5.248,0,4.011.073,7.472.139,9.427-1.715A5.058,5.058,0,0,0,27,10.509C27,4.715,20.947,0,13.5,0S0,4.715,0,10.509a5.058,5.058,0,0,0,1.449,3.83C3.024,15.836,5.585,16.085,8.615,16.085ZM13.5,2.727c5.891,0,10.689,3.491,10.689,7.782a2.335,2.335,0,0,1-.606,1.885c-1.112,1.055-4.167,1-7.4.939-1.724-.03-3.636-.03-5.36,0-3.236.061-6.291.121-7.4-.939a2.316,2.316,0,0,1-.606-1.879C2.811,6.218,7.6,2.727,13.5,2.727Z" transform="translate(0 13.915)" fill="#bdbdbd"/>
+          <path id="Vector-70" data-name="Vector" d="M6.4,13.545c3.6,0,6.4-3.945,6.4-7.339A6.312,6.312,0,0,0,6.4,0,6.312,6.312,0,0,0,0,6.206C0,9.6,2.792,13.545,6.4,13.545Zm0-10.818A3.538,3.538,0,0,1,9.983,6.206c0,2.012-1.737,4.612-3.586,4.612s-3.586-2.6-3.586-4.612A3.538,3.538,0,0,1,6.4,2.727Z" transform="translate(7.103)" fill="#bdbdbd"/>
+        </g>
+      </g>
+    </g>
+    <g id="Groupe_1" data-name="Groupe 1" transform="translate(51 1836)">
+      <text id="All_news" data-name="All news" transform="translate(1.146 35)" fill="#fb5954" font-size="12" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="2.686" y="12">Feed</tspan></text>
+      <path id="ICON_-_EXPLORE" data-name="ICON - EXPLORE" d="M32.207.175a1.553,1.553,0,0,0-1.533.058l-9.183,5.74L12.308.232C12.3.226,12.282.226,12.275.22a1.348,1.348,0,0,0-.313-.135.5.5,0,0,0-.093-.026A1.161,1.161,0,0,0,11.5,0a1.462,1.462,0,0,0-.38.051c-.033.006-.06.019-.093.026a1.348,1.348,0,0,0-.313.135c-.013.006-.027.006-.033.013L.68,6.474A1.457,1.457,0,0,0,0,7.695V28.553a1.453,1.453,0,0,0,.78,1.273,1.553,1.553,0,0,0,1.533-.058L11.5,24.034l9.183,5.733c.013.006.027.006.033.013a1.348,1.348,0,0,0,.313.135.5.5,0,0,0,.093.026,1.429,1.429,0,0,0,.76,0c.033-.006.06-.019.093-.026a1.482,1.482,0,0,0,.313-.135c.013-.006.027-.006.033-.013l10-6.248A1.445,1.445,0,0,0,33,22.305V1.447A1.492,1.492,0,0,0,32.207.175ZM12.995,4.108l7,4.371V25.892l-7-4.371ZM3,8.479l7-4.371V21.521L3,25.892ZM29.988,21.521l-7,4.371V8.479l7-4.371Z" transform="translate(0 0)" fill="#fb5954"/>
+    </g>
+  </g>
+</svg>

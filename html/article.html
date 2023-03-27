@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="description" content="NewsBooth, the most user-friendly app for your RSS feed">
+    <meta name="keywords" content="news, app, feed, rss, client, mobile">
+    <meta name="author" content="FP">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+      NewsBooth: Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds
+    </title>
+    
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <header class="mainHeader">
+      <h1 aria-level="1" role="heading">
+        NewsBooth
+      </h1>
+      <div class="mainHeader-settings">
+        <a href="#settings" title="Toggle settings panel" class="mainHeader-settings-wheel">
+          Settings
+        </a>
+        <a href="#notifications" title="Toggle notification panel" class="mainHeader-settings-notifications">
+          Notifications
+        </a>
+      </div>
+    </header>
+    <nav class="mainMenu">
+      <h2 aria-level="2" role="heading" class="hidden">
+        Main menu
+      </h2>
+      <a href="#" title="Back to the top of the page" class="mainMenu-feed">
+        Feed
+      </a>
+      <a href="#" title="Search an article" class="mainMenu-search">
+        Search
+      </a>
+      <a href="#" title="Go to articles to read later" class="mainMenu-readLater">
+        Read later
+      </a>
+      <a href="#" title="Go to your profile page to edit your settings" class="mainMenu-profile">
+        Profile
+      </a>
+    </nav>
+      <article>
+        <header>
+          <img src="../img/article-img.svg" alt="" height="310" width="315">
+          <span>
+            Web
+          </span>
+          <h2 aria-level="2" role="heading">
+            Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds
+          </h2>
+          <time datetime="2022-01-18T14:54:39.929" class="article-postTime">
+          <div class="mainHeader-actions">
+            <a href="#settings" title="Share this article on your favorite social network" class="mainHeader-actions-share">
+              Share
+            </a>
+            <a href="#notifications" title="Mark this article as Read Later" class="mainHeader-actions-readLater">
+              Read Later
+            </a>
+          </div>
+        </header>
+        <p>
+          The <a href="https://ukcop26.org/" title="Visit de website of Cop26">COP26</a> climate conference has thrown into a sharp light the importance of reducing carbon emissions in every area of our lives. Everyone can play a role in this, including those of us working on the web.
+        </p>
+        <p>
+          Measuring the carbon footprint of the web isn’t an exact science, but <a href="https://www.bbc.com/future/article/20200305-why-your-internet-habits-are-not-as-clean-as-you-think" title="Read the report by the BBC on their website">a report by the BBC</a> in 2020 estimates that all internet activity accounts for around 3.7% of global emissions (similar to the airline industry), and rising. The average web page size has been increasing steadily for years and is currently just over 2MB (according to <a href="https://httparchive.org/reports/page-weight" title="Try the page weight tracker">HTTP Archive</a>), and much of that increase can be attributed to Javascript. This is clearly not just bad for the environment — it’s bad for performance and hurts our users too. But calculating carbon emissions takes into account much more than bytes over the wire: there’s the power used in development, the data centers that host our files, the power consumed by the end users’ devices, and more.
+        </p>
+        <p>
+          There’s a lot we can do to mitigate the environmental impact of the sites we build. Check out <a href="https://thoughtbot.com/blog/so-you-wanna-create-an-eco-friendly-website" title="Read the article by Eric Bailey on environmental impact of sites">this article</a> by Eric Bailey for some ideas. For this article, we’re going to take a deeper dive into one particular area.
+        </p>
+        <section>
+          <h3 aria-level="3" role="heading">
+            The Impact Of Social Media Embeds
+          </h3>
+        </section>
+        <p>
+          Third-party Javascript accounts for a lot of bloat on websites, with analytics, chatbots, and embedded widgets being common contributors. While working on a site recently, I noticed that an embedded YouTube video loaded around 600kB of JS for any visitor regardless of whether that user even chose to watch the video. This seems wasteful. I also became interested in <a href="https://fershad.com/writing/cop26-a-quick-sustainability-check/" title="Read the analysis by Fershad Irani on his website">this analysis</a> of the COP26 website by Fershad Irani, which shows many things that could be improved to reduce the site’s (relatively large) carbon footprint.
+        </p>
+        <p>
+          Redesigning the social media coverage is briefly mentioned as one way to save approximately 1.4MB. However, when I visited the site, the amount of JS seemingly loaded from the Twitter feed section was higher even. On closer inspection, it appeared that other content embedded within tweets (video in particular) was contributing to this.
+        </p>
+        <p>
+          To analyze the impact of various types of embed, I’ve measured the JS loaded and <a href="https://web.dev/tbt/" title="Learn more about Total Blocking">total blocking time</a> (<abbr title="total blocking time">TBT</abbr>) on a mobile connection for a simple HTML page with some common embeds. The performance impact is be measured with <a href="https://pagespeed.web.dev/" title="Visit the website of PageSpeed Insights">PageSpeed Insights</a>. There’s also the number of requests to consider, which for a single Twitter embed is a lot.
+        </p>
+      </article>
+  </body>
+</html>
