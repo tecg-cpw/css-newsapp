@@ -33,11 +33,11 @@ Le rendu final désiré est le suivant :
 ### Outils
 
 - [css-steptools](https://github.com/tecg-cpw/css-steptools)
-- [Comment masquer un élément visuellement ?](https://css-tricks.com/places-its-tempting-to-use-display-none-but-dont/)
+- [Comment masquer un élément visuellement ?](https://css-tricks.com/inclusively-hidden/)
 - [Comment utiliser adobe XD]( https://youtu.be/S-XJ1K2EuC0 ) ?
 - [Background multiples](https://css-tricks.com/css-basics-using-multiple-backgrounds/)
 - [Styler un `select`](https://codepen.io/5t3ph/pen/MWyyYNz)
 - Si vous avez besoin d'aide pour utiliser Adobe XD, vous pouvez chercher des solutions dans la [documentation officielle](https://helpx.adobe.com/be_fr/xd/tutorials.html) ou me poser des questions sur Slack.
 
 
-Adaptation et intégration par & [François Parmentier](https://github.com/fprms).
+Adaptation et intégration par [François Parmentier](https://github.com/fprms).
