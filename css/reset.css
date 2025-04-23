@@ -1,6 +1,6 @@
 /* http://meyerweb.com/eric/tools/css/reset/
-  v2.0 | 20110126
-  License: none (public domain)
+   v2.0 | 20110126
+   License: none (public domain)
 */
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -33,14 +33,28 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
 /* --- fin du reset --- */
+@font-face {
+  font-family: "Nunito";
+  src: url("../fonts/Nunito/Nunito-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Nunito";
+  src: url("../fonts/Nunito/Nunito-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Nunito";
+  src: url("../fonts/Nunito/Nunito-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
 
-
-/*
-
-!!!! Ajoutez le bon sélecteur pour masquer les éléments à masquer et supprimez le commentaire !!!!!
-
-{
+.hidden {
   clip: rect(0 0 0 0);
   clip-path: inset(50%);
   height: 1px;
@@ -49,5 +63,80 @@ table {
   white-space: nowrap;
   width: 1px;
 }
+body {
+  font-family: Nunito, Helvetica, Arial, sans-serif;
+}
+input, button {
+  font: inherit;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
 
-*/
+img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* ----------------- */
+/* --- Main Menu --- */
+/* ----------------- */
+
+.mainMenu {
+  -webkit-box-shadow: 0px 5px 40px 0px rgba(68, 87, 128, 0.1);
+  box-shadow: 0px 5px 40px 0px rgba(68, 87, 128, 0.1);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 1.0833333333333333333em 13.6%; /*13/12 51/375*100*/
+  background-color: white;
+  font-size: 0.75em; /*12/16*/
+  text-align: center;
+  box-sizing: border-box;
+}
+.mainMenu a {
+  display: inline-block;
+  padding-top: 2.9166666666666666667em; /*35/12=*/
+  text-decoration: none;
+  color: #bdbdbd;
+  background-image: url("../img/feed-icon-map.svg");
+  background-repeat: no-repeat;
+  background-position: top center;
+  min-width: 12.454212454212454212%; /*34/273*100*/
+}
+.mainMenu a + a {
+  margin-left: 10.622710622710622711%; /*29/273*100*/
+}
+
+.mainMenu a.mainMenu-search {
+  background-image: url("../img/feed-icon-search.svg");
+}
+.mainMenu a.mainMenu-readLater {
+  background-image: url("../img/feed-icon-readlater.svg");
+}
+.mainMenu a.mainMenu-profile {
+  background-image: url("../img/feed-icon-profile.svg");
+}
+
+.mainHeader {
+  position: relative;
+  margin-bottom: 2.8125em; /*45/16*/
+}
+.mainHeader-settings a {
+  position: absolute;
+  top: 0;
+  right: 0;
+  line-height: 1.5; /*24/16*/
+  width: 5.7142857142857142857%; /*18/315*100*/
+  display: block;
+  text-indent: -9999px;
+  background-image: url("../img/feed-icon-notifications.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+a.mainHeader-settings-wheel {
+  background-image: url("../img/feed-icon-settings.svg");
+  right: 12.063492063492063492%; /*38/315*100*/
+}

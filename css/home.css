@@ -1,0 +1,76 @@
+body {
+  font-size: 1.125em; /*18/16*/
+}
+figure {
+  position: relative;
+}
+figcaption {
+  font-weight: 700;
+  max-width: 52%; /*195/375*100*/
+  position: absolute;
+  top: 5.6111111111111111111em; /*101/18*/
+  right: 6.133333%;
+  color: #373737;
+}
+main {
+  padding: 3.44444444em 8% 1.88888889em 8%; /*62 30 34 30*/
+}
+main * {
+  width: 100%;
+}
+main label {
+  font-size: 0.77777778em; /*14/18*/
+  font-weight: 700;
+  color: #373737;
+  margin-bottom: 0.71428571428571428571em; /*10/14*/
+  display: block;
+}
+main input {
+  border: 1px solid #e3e3e3;
+  border-radius: 0.44444444444444444444em; /*8/18*/
+  padding: 1.2222222222222222222em 5.7142857142857142857% 1.2222222222222222222em 17.777777777777777778%; /*22/18 18/315*100 22 56/315*100*/
+}
+button {
+  padding: 1.2222222222222222222em 1em; /*22/18 18/18*/
+  background-color: #373737;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  margin-bottom: 1.1666666666666666667em; /*21/18*/
+}
+::placeholder {
+  padding-left: 6.6945606694560669456%; /*16/239*100*/
+  color: #bdbdbd;
+  font-weight: 700;
+}
+.email {
+  margin-bottom: 1.6666666666666666667em; /*30/18*/
+}
+.email input,
+.password input {
+  background-image: url(../img/index-user.svg);
+  background-position: center left 7.949791%;
+  background-repeat: no-repeat;
+}
+.password input {
+  background-image: url(../img/index-lock.svg);
+}
+.password {
+  margin-bottom: 0.55555555555555555556em; /*10/18*/
+}
+.save label,
+.save input {
+  display: inline-block;
+  width: auto;
+}
+.save {
+  margin-bottom: 4.5555555555555555556em; /*82/18*/
+}
+footer {
+  text-align: center;
+}
+footer a {
+  font-weight: 500;
+  color: #7c79fc;
+}
